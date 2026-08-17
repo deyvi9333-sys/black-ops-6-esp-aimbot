@@ -1,0 +1,8 @@
+*.min.css linguist-generated
+
+src/**/*.ts linguist-detectable
+*.svg text
+package-lock.json linguist-generated
+dist/* linguist-vendored
+*.htm linguist-vendored
+*.html linguist-vendored
